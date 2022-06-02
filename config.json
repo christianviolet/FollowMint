@@ -1,7 +1,7 @@
 {
   "RPC": "https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
-  "privateKey": ["",""],
-  "blocknativeKey": "",
+  "privateKey": ["683feda364084fc3a67ab2a10d775d6a9993bbe30d9ab6ca80849b6edcdbda73"],
+  "blocknativeKey": "794b0728-f052-4a88-babc-086f850d27e9",
   "barkKey": "",
   "maxGasPrice": 50,
   "maxGasLimit": 1000000,
